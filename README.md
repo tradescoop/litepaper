@@ -46,8 +46,7 @@ Tradescoop combines AI automation, blockchain transparency, and community collab
 
 ### **Tokenomics**
 
-Our token is launched on the [virtuals.io](http://virtuals.io/) platform on Base Networking.
-Platform: [Virtuals.io](http://virtuals.io/)
+Our token is launched on the [virtuals.io](https://app.virtuals.io/virtuals/16098) platform on Base Networking.
 Token Name: Tradescoop (Scoop)
 Symbol: SCOOP
 Total Supply: 1,000,000,000
@@ -83,8 +82,8 @@ Contract Address: 0xf404bC113f4fc7C2447CB2556dcF5a56e29fa2dd
 - Establish partnerships with leading DeFi protocols to enhance platform features.
 
 ### **How to Get Started**
-
-1. **Buy $SCOOP Tokens**: Available on [Virtuals.io](http://virtuals.io/) or Uniswap.
-2. **Connect Your Wallet**: Link your web3 wallet to access token-gated features.
-3. **Activate the AI Agent**: Configure your preferences and let SCOOP assist with real-time insights.
-4. **Stake for Rewards**: Participate in staking to earn rewards and take part in governance.
+1. **learn about our Web3 project on our website** [tradescoop.io](https://tradwscoop.io/scoop-token-launch)
+2. **Buy $SCOOP Tokens**: Available on [Virtuals.io](https://app.virtuals.io/virtuals/16098) or Uniswap.
+3. **Connect Your Wallet**: Link your web3 wallet to access token-gated features.
+4. **Activate the AI Agent**: Configure your preferences and let SCOOP assist with real-time insights.
+5. **Stake for Rewards**: Participate in staking to earn rewards and take part in governance.
