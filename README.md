@@ -46,12 +46,12 @@ Tradescoop combines AI automation, blockchain transparency, and community collab
 
 ### **Tokenomics**
 
-Our token is launched on the [virtuals.io](https://app.virtuals.io/virtuals/16098) platform on Base Networking.
-Token Name: Tradescoop (Scoop)
-Symbol: SCOOP
-Total Supply: 1,000,000,000
-Initial Distribution: Fair Launch on virtuals.io
-Contract Address: 0xf404bC113f4fc7C2447CB2556dcF5a56e29fa2dd
+Our token is launched on the [virtuals.io](https://app.virtuals.io/virtuals/16098) protocol.
+- **Token Name**: Tradescoop (Scoop)
+- **Symbol**: SCOOP
+- **Total Supply**: 1,000,000,000
+- **Initial Distribution**: Fair Launch on virtuals.io
+- **Contract Address**: 0xf404bC113f4fc7C2447CB2556dcF5a56e29fa2dd
 
 ### **Core Team**
 
