@@ -55,13 +55,13 @@ Our token is launched on the [virtuals.io](https://app.virtuals.io/virtuals/1609
 
 ### **Core Team**
 
-- **Deji**: Founder & Principal Architect: A seasoned Trader, former Full-stack Engineer and Director of Engineering with extensive experience building technical products used by millions of people. Deji is a technology visionary with a passion for AI and web3.
+- **Deji Faletti**: Founder & Principal Architect: A seasoned Trader, former Full-stack Engineer and Director of Engineering with extensive experience building technical products used by millions of people. Deji is a technology visionary with a passion for AI and web3.
 
-- **Segun**: Blockchain and data engineer specializing in secure, scalable decentralized solutions, smart contracts, and data analytics.
+- **Isaac Leslie**: Blockchain and data engineer specializing in secure, scalable decentralized solutions, smart contracts, and data analytics.
 
-- **Obi**: Cloud and AI innovator with expertise in cutting-edge tech solutions. Obi is a seasoned engineer and senior executive leader with expertise in Google Cloud Platform, driving innovation in cloud infrastructure, digital transformation, and cutting edge technologies such as Edge AI, Web3, and Agentic AI. He has contributed to the development of edge solutions like Google Distributed Cloud, and builds inference solutions that leverage AI capabilities.
+- **Obi Amalu**: Cloud and AI innovator with expertise in cutting-edge tech solutions. Obi is a seasoned engineer and senior executive leader with expertise in Google Cloud Platform, driving innovation in cloud infrastructure, digital transformation, and cutting edge technologies such as Edge AI, Web3, and Agentic AI. He has contributed to the development of edge solutions like Google Distributed Cloud, and builds inference solutions that leverage AI capabilities.
 
-- **Kesha**: Kesha, an AWS Machine Learning Hero, leads Enterprise Architecture & Engineering, shaping strategic technology solutions and guiding engineering teams in cloud-native AI development. She holds multiple AWS certifications and has completed leadership training at Harvard Business School.
+- **Kesha Williams**: Kesha, an AWS Machine Learning Hero, leads Enterprise Architecture & Engineering, shaping strategic technology solutions and guiding engineering teams in cloud-native AI development. She holds multiple AWS certifications and has completed leadership training at Harvard Business School.
 
 ### **Roadmap**
 
