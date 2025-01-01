@@ -1,4 +1,4 @@
-# **Transforming Social Trading with AI and Blockchain**
+# **Transforming Social Trading with Web3 and Agentic AI**
 
 Tradescoop is a social trading platform that empowers users to share trading ideas, fostering a community-driven approach to investment strategies. By integrating web3 capabilities and AI-powered trading agents, Tradescoop delivers real-time, data-driven insights and autonomous decision-making tools. This innovative approach is designed to help traders maximize profitability, reduce risk, and tap into the collective expertise of the community.
 
