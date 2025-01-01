@@ -31,7 +31,7 @@ By combining community collaboration, AI-powered analysis, and token-based incen
 
 - **On-Chain Verification**: Stores trade ideas on the blockchain for transparency and tamper-proof authenticity.
 - **Automated Revenue Distribution**: Smart contracts ensure accurate and timely payouts.
-- **Token-Gated Terminal Access**: Tier 1 & tier 2 gated premium premium insights and analytics tools exclusively for $SCOOP token holders.
+- **Token-Gated Terminal Access**: Tier 1 & tier 2 gated premium insights and analytics tools exclusively for $SCOOP token holders.
 - **Privacy**: Interact anonymously via Wallet connections.
 - Integration with Thirdweb Nebula AI, TradingView, Cookies.fun,and DexScreener APIs powered by Eliza.
 
