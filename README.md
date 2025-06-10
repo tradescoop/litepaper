@@ -24,7 +24,7 @@ By combining community collaboration, AI-powered analysis, and token-based incen
 
 ### **AI-Powered Agent (SCOOP)**
 
-- **Autonomous Alerts**: Monitors market activity and sends real-time trading opportunities directly to users.
+- **Autonomous Alerts**: Identifies opportunities in the market and sends real-time alerts directly to users.
 - **Interactive Chat**: Provides intelligent, context-specific responses to trading inquiries, leveraging both technical and on-chain data.
 
 ### **Web3 Features**
@@ -64,7 +64,7 @@ improvement of the ecosystem.
 - **Deji Faletti**: Founder & Principal Architect: A seasoned Trader, former Full-stack Engineer, Engineering Manager and Director of Engineering with extensive experience building technical products used by millions of people. Deji is a technology visionary with a passion for AI and Web3.
 - **Leslie Isaac**: Blockchain and data engineer specializing in secure, scalable decentralized solutions, smart contracts, and data analytics.
 - **Karl Amalu**: Cloud and AI innovator with expertise in cutting-edge tech solutions. Obi is a seasoned engineer and senior executive leader with expertise in Google Cloud Platform, driving innovation in cloud infrastructure, digital transformation, and cutting edge technologies such as Edge AI, Web3, and Agentic AI. He has contributed to the development of edge solutions like Google Distributed Cloud, and builds inference solutions that leverage AI capabilities.
-- **Kesha Williams**: Kesha, an AWS Machine Learning Hero, leads Enterprise Architecture & Engineering, shaping strategic technology solutions and guiding engineering teams in cloud-native AI development. She holds multiple AWS certifications and has completed leadership training at Harvard Business School.
+
 
 ### **Roadmap**
 
